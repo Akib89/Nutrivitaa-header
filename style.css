@@ -360,6 +360,10 @@ img {
     font-family: "woodmart-font";
 }
 
+.wd-account-style-icon:not(.wd-with-username) .wd-tools-text {
+    display: none;
+}
+
 
 
 
